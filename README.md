@@ -1,4 +1,4 @@
-# RUNow
+# BANDEJOMETRO | RUNow | RUFV | 
 
 Uma rede social do RU, onde os alunos podem postar em tempo real como está a fila e o cardápio do dia. 
 
