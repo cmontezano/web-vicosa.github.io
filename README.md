@@ -1,5 +1,7 @@
 # BANDEJOMETRO | RUNow | RUFV | 
 
+![Prototype](https://github.com/web-vicosa/web-vicosa.github.io/blob/master/assets/prototype.jpg)
+
 Uma rede social do RU, onde os alunos podem postar em tempo real como está a fila e o cardápio do dia. 
 
 - Login
