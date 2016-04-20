@@ -1,8 +1,8 @@
-Examplo criado na aula do dia 19/04/2016 de introdução a criação de aplicativos para web. 
+Examplo criado na aula do dia 19/04/2016 de introdução a criação de aplicativos para web.
 
 ## Para rodar esse exemplo
 
-Tenha certeza de que tem [NodeJS](https://nodejs.org) e [Git]() instalados.
+Tenha certeza de que tem [NodeJS](https://nodejs.org) e [Git](https://git-scm.com/) instalados.
 
 `git clone https://github.com/ufv-js/ufv-js.github.io.git ufv-js/ufv-js.github.io.git`
 

@@ -10,6 +10,9 @@ body, html {
 		font-family: 'Istok Web', sans-serif;
 		text-transform: uppercase;
 	}
+	h1 {
+		font-size: 5em;
+	}
 	a, a:link, a:visited {
 		color: #F68657;
 		text-decoration: none;
@@ -55,6 +58,9 @@ body, html {
 	}
 	.header {
 		padding: 50px 0 100px;
+	}
+	.header .js {
+		color: #F6B352;
 	}
 	.header .github {
 		color: #000; 
