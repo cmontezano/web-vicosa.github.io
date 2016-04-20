@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": " node node_modules/.bin/http-server",
     "deploy": "git add . && git commit -m 'comit' && git push origin master",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/web-vicosa/web-vicosa.github.io/issues"
   },
-  "homepage": "https://github.com/web-vicosa/web-vicosa.github.io#readme"
+  "homepage": "https://github.com/web-vicosa/web-vicosa.github.io#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
 }

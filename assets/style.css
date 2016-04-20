@@ -1,0 +1,76 @@
+body, html {
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		background: #383A3F;
+		color: #FFFFF2;
+		font-family: 'Lora', serif;
+	}
+	h1, h2, h3, h4 {
+		font-family: 'Istok Web', sans-serif;
+		text-transform: uppercase;
+	}
+	a, a:link, a:visited {
+		color: #F68657;
+		text-decoration: none;
+	}
+	a:hover {
+		color: #F6B352;
+	}
+	ul li {
+		list-style: none;
+	}
+	form input, form button {
+		background: #F6B352;
+		border: none;
+		padding: 10px 30px;
+		color: #383A3F;
+	}
+	form button {
+		text-transform: uppercase;
+		color: #FFFFF2;
+		font-weight: 900;
+		background: #F68657;
+		cursor: pointer;
+	}
+	form button:hover {
+		background: #383A3F;
+	}
+	::-webkit-input-placeholder {
+	   color: #000;
+	}
+
+	:-moz-placeholder { /* Firefox 18- */
+	   color: #000;  
+	}
+
+	::-moz-placeholder {  /* Firefox 19+ */
+	   color: #000;  
+	}
+
+	:-ms-input-placeholder {  
+	   color: #000;  
+	}
+	.main {
+	}
+	.header {
+		padding: 50px 0 100px;
+	}
+	.header .github {
+		color: #000; 
+		padding: 13px 26px; 
+		border: 1px solid #000;
+		border-radius: 5px;
+	}
+	.header .github:hover {
+		border: 1px solid #F68657;
+		background: #F68657;
+	}
+	.form {
+		padding: 50px 0;
+		background: #1F2124;
+	}
+	.resources {
+		padding: 100px 0;
+		
+	}
